@@ -74,7 +74,7 @@ Ajout d’une interface graphique (GUI)
 Meilleure expérience utilisateur
 
 ## Auteur
-Maria El Mrabet
+Maria El Mrabet :
 Projet académique – Gestion de contacts avec Python
 ## 📄 Licence
 Ce projet est sous licence MIT (usage éducatif et libre).
