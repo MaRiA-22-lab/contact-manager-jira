@@ -63,13 +63,13 @@ ContactApp/
 
 ---
 ## Versions du projet
-🔹 v0.0.1
+- v0.0.1
 Version initiale en ligne de commande (CLI)
 Gestion basique des contacts
-🔹 v0.0.2
+- v0.0.2
 Amélioration de la structure
 Ajout de stockage fichier
-🔹 v0.0.3
+- v0.0.3
 Ajout d’une interface graphique (GUI)
 Meilleure expérience utilisateur
 
