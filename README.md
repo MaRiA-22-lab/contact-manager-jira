@@ -36,22 +36,22 @@ ContactApp/
 │   ├── main.py
 │   ├── contact.py
 │   ├── address_Book.py
-│
+
 ├── v_0.0.2/
 │   ├── main.py
 │   ├── contact.py
 │   ├── address_Book.py
 │   ├── contacts.txt
-│
+
 ├── v_0.0.3/
 │   ├── main.py
 │   ├── gui.py
 │   ├── contact.py
 │   ├── address_Book.py
-│
+
 ├── contacts.txt
 └── .gitignore
----
+
 
 ## 🛠️ Technologies utilisées
 
