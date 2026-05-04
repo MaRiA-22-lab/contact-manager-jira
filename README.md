@@ -29,28 +29,28 @@ Ce projet a été réalisé afin de :
 ---
 
 ## 🏗️ Structure du projet
+
 ContactApp/
-│
+
 ├── v_0.0.1/
-│ ├── main.py
-│ ├── contact.py
-│ ├── address_Book.py
+│   ├── main.py
+│   ├── contact.py
+│   ├── address_Book.py
 │
 ├── v_0.0.2/
-│ ├── main.py
-│ ├── contact.py
-│ ├── address_Book.py
-│ ├── contacts.txt
+│   ├── main.py
+│   ├── contact.py
+│   ├── address_Book.py
+│   ├── contacts.txt
 │
 ├── v_0.0.3/
-│ ├── main.py
-│ ├── gui.py
-│ ├── contact.py
-│ ├── address_Book.py
+│   ├── main.py
+│   ├── gui.py
+│   ├── contact.py
+│   ├── address_Book.py
 │
 ├── contacts.txt
 └── .gitignore
-
 ---
 
 ## 🛠️ Technologies utilisées
@@ -73,7 +73,7 @@ Ajout de stockage fichier
 Ajout d’une interface graphique (GUI)
 Meilleure expérience utilisateur
 
-👩‍💻 Auteur
+## Auteur
 Maria El Mrabet
 Projet académique – Gestion de contacts avec Python
 ## 📄 Licence
